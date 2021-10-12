@@ -6,7 +6,7 @@ Hi! Welcome to this beginner-friendly **Frontend Engineering** challenge for [Ha
 
 Everyone is encouraged to participate, regardless of your skill level (If you don't have the required skills, use this project as a motivation to learn those!). This is a practice project and should be considered a playground.
 
-# Project Summay
+# Project Summary
 
 You have to build a **React** based web application which will act as your personal console for the crypto market!
 
