@@ -2,7 +2,7 @@
 
 ![Image](https://cdn.pixabay.com/photo/2018/01/18/07/31/bitcoin-3089728_960_720.jpg)
 
-Hi! Welcome to this beginner-friendly **Frontend Engineering** challenge for [Hactoberfest](https://hacktoberfest.digitalocean.com/). A project focused on people getting started with frontend development with [React](https://reactjs.org/) where one can build a very cool personal realtime crypto tracker tracker.
+Hi! Welcome to this beginner-friendly **Frontend Engineering** challenge for [Hacktoberfest](https://hacktoberfest.digitalocean.com/). A project focused on people getting started with frontend development with [React](https://reactjs.org/) where one can build a very cool personal realtime crypto tracker tracker.
 
 Everyone is encouraged to participate, regardless of your skill level (If you don't have the required skills, use this project as a motivation to learn those!). This is a practice project and should be considered a playground.
 
