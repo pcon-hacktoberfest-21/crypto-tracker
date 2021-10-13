@@ -46,6 +46,8 @@ Using the apis and tools given below, try to implement the following features:
 
 - [ ] Graph showing ups and downs.
 
+- [ ] Sorting
+
 ## APIs and Services to be used
 
 - [ ] [**APIs**](https://www.coingecko.com/en/api/documentation) : For fetching all the coins, market cap, current value.
